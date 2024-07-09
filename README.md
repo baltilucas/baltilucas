@@ -1,4 +1,4 @@
--- Hi, I’m @baltilucas
+ Hi, I’m @baltilucas
 - I am a computer engineering student
 - I learn a bit of everything
 - I like computer science and physics
